@@ -1,3 +1,6 @@
-# Data-Analyst-Portofolio
-Halo, saya Muhammad Fatih Farasidiq Haenesa 
-Saya tertarik pada bidang Data Analysis dan Data Visualization. Saat ini saya sedang mempelajari berbagai tools analisis data seperti Microsoft Excel, SQL, dan Python untuk mengolah data serta menghasilkan insight yang berguna dalam pengambilan keputusan.
+📊 Data Analyst Portfolio 
+
+👤 Profile 
+
+Halo, saya Muhammad Fatih Farasidiq Haenesa.
+Saya adalah seorang calon Data Analyst yang berfokus pada pengolahan data untuk mendukung pengambilan keputusan yang tepat. Saat ini saya aktif mengasah kemampuan dalam menggunakan SQL, Python, dan Microsoft Excel untuk mengubah data mentah menjadi wawasan (insight) yang bermanfaat.
